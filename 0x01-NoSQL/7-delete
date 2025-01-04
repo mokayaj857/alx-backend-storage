@@ -1,2 +1,2 @@
-// delete a document in Mongo
+// delete a document in Mongodb
 db.school.deleteMany{"name": "Holberton school"}
